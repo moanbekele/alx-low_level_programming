@@ -4,7 +4,7 @@
  * code by moanbekele
  * Return: 0
 */
-in main(void)
+int main(void)
 {
 	char a;
 	int b;
@@ -18,3 +18,4 @@ in main(void)
 	printf("Size of long long int: %lu byte(S)\n", (unsigned long)sizeof(d));
 	printf("Size of float: %lu byte(S)\n", (unsigned long)sizeof(f));
 	return (0);
+}
