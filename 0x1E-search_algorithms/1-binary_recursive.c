@@ -1,6 +1,7 @@
 #include "search_algos.h"
 
 /**
+  * Write a function that searches for a value in a sorted array of integers using the Binary search algorithm
   * binary_search_recursive - Searches recursively for a value in a sorted
   *                           array of integers using binary search.
   * @array: A pointer to the first element of the [sub]array to search.
